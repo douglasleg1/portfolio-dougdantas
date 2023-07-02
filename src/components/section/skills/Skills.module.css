@@ -1,0 +1,19 @@
+.general{
+    background-color: #01091CBF;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.general ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 13%;
+}
+
+.general ul img{
+    margin-left: 40px;
+    max-width: 90px;
+}

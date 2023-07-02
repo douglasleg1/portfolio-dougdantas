@@ -1,0 +1,33 @@
+.general{
+    margin-top: 50px;
+}
+
+.general ul{
+    list-style: none;
+}
+
+.icons ul{
+    display: flex;
+    flex: column;
+    justify-content: center;
+    margin-left: -110px;
+}
+
+.icons li{
+    margin-left: 20px;
+}
+
+.icons a{
+    color: #ffffff !important;
+}
+
+.infoAuthor{
+    display: flex;
+    flex-direction: column;
+    margin-top: -20px;
+}
+
+.infoAuthor li{
+    margin-left: -80px;
+    margin-top: 10px;
+}

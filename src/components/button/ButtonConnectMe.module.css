@@ -1,0 +1,21 @@
+.general{
+    background-color: #74FAC0;
+    color: #01091C;
+    height: 50px;
+    width: 250px;
+    border-radius: 15px;
+    border: none;
+    font-weight: 700;
+    font-size: 20px;  
+    margin-top: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.general:hover{
+    background-color: #370670;
+    color: #ffffff;
+    transform: translateY(-7px);
+    transition-duration: 0.5s;
+    
+}
