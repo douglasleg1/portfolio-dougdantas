@@ -1,0 +1,22 @@
+.general{
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+.general ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+
+}
+
+.general li{
+    margin: 10px;
+}
+
+.general a{
+    margin: 10px;
+    color: #ffffff !important;
+}
